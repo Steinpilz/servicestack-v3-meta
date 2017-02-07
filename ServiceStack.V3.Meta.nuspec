@@ -1,0 +1,16 @@
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ServiceStack.V3.Meta</id>
+    <version>1.0.0</version>
+    <description>Meta package depending on latest ServiceStack v3 packages</description>
+    <authors>steinpilz,ivanbianko</authors>
+    <dependencies>
+      <dependency id="ServiceStack" version="3.9.71" />
+      <dependency id="ServiceStack.Common" version="3.9.71" />
+      <dependency id="ServiceStack.Text" version="3.9.71" />
+      <dependency id="ServiceStack.Redis" version="3.9.71" />
+      <dependency id="ServiceStack.OrmLite.SqlServer" version="3.9.71" />
+    </dependencies>
+  </metadata>
+
+</package>
