@@ -1,9 +1,10 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>ServiceStack.V3.Meta</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <description>Meta package depending on latest ServiceStack v3 packages</description>
     <authors>steinpilz,ivanbianko</authors>
+    <license type="file">LICENSE</license>
     <dependencies>
       <dependency id="ServiceStack" version="3.9.71" />
       <dependency id="ServiceStack.Common" version="3.9.71" />
