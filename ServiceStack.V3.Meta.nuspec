@@ -1,7 +1,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>ServiceStack.V3.Meta</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <description>Meta package depending on latest ServiceStack v3 packages</description>
     <authors>steinpilz,ivanbianko</authors>
     <licenseUrl>https://github.com/ServiceStack/ServiceStack/blob/v3/LICENSE</licenseUrl>
