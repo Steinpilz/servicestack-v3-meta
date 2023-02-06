@@ -4,7 +4,7 @@
     <version>1.0.1</version>
     <description>Meta package depending on latest ServiceStack v3 packages</description>
     <authors>steinpilz,ivanbianko</authors>
-    <licenseUrl>https://github.com/ServiceStack/ServiceStack/blob/v3/LICENSE</licenseUrl>
+    <license>https://github.com/ServiceStack/ServiceStack/blob/v3/LICENSE</license>
     <dependencies>
       <dependency id="ServiceStack" version="3.9.71" />
       <dependency id="ServiceStack.Common" version="3.9.71" />
